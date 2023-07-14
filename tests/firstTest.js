@@ -14,7 +14,7 @@ let driver = await new Builder().forBrowser("firefox").build();
 
 
 //close the browser
-//await driver.quit();
+// await driver.quit();
 
 
 
